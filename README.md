@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web & App Development.**
 
-- 📝 I regularly write articles on every 2nd week [https://medium.com/@mohitshaw181104](https://medium.com/@mohitshaw181104).
+- 📝 I regularly write articles on [https://medium.com/@mohitshaw181104](https://medium.com/@mohitshaw181104).
 
 - 💬 Ask me about **MERN Stack, Flutter, UI/UX.**
 
