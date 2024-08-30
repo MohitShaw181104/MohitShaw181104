@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **mohitshaw181104@gmail.com.**
 
-- 📄 Know about my experiences [https://tan-mommy-32.tiiny.site](https://tan-mommy-32.tiiny.site).
-
 - ⚡ Fun fact **Batman Is Real.**
 
 <h3 align="left">Connect with me:</h3>
